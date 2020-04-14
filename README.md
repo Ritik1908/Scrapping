@@ -7,7 +7,7 @@ Following are the main methods used to create your own DataFrame from the extern
 
 ## API Request
 Extracted data from the TMDB Website.
-** Kaggle Link: ** https://www.kaggle.com/ritikverma19/top-10000-movies-based-on-ratings
+**Kaggle Link:** https://www.kaggle.com/ritikverma19/top-10000-movies-based-on-ratings
 
 ## Web Scrapping
 Extracted data from the following two sources:
@@ -15,7 +15,7 @@ Extracted data from the following two sources:
 ###	1. IMDB: Top 250 movies from the IMDB Dataset.
 ###	2. Zomato: Extracted data from zomato kolkata website, working to extract from Zomato India.
 
-	** Kaggle Link: ** https://www.kaggle.com/ritikverma19/zomato-kolkata-dataset
+**Kaggle Link:** https://www.kaggle.com/ritikverma19/zomato-kolkata-dataset
 
 ## Database Connectivity
 How to connect to SQL Database from python and perform query operations on it.
